@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en>
-  <head><title>My Page</title></head>
+
+
   <body><h1>Welcome!</h1></body>
-</html>
+
